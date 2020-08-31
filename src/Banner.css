@@ -1,0 +1,37 @@
+.banner{
+    height: 65vh;
+    position: relative;
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-FX0lgia-Ra6JdfpruzuSwHaE8%26pid%3DApi&f=1")center center;
+    
+}
+.banner_info{
+    background-color: black;
+    color: white;
+    padding-top:25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 300px;
+}
+.banner_info > h5{
+    margin-top: 10px;
+}
+.banner_info > button{
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+}
+.banner_info > button:hover{
+    background-color: white;
+    color:#ff7779;
+}
+.banner_search{
+    display: flex;
+    flex-direction: column;
+}
+.banner_searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color:#ff7779 !important;
+}

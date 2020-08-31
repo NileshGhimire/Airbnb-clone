@@ -1,0 +1,17 @@
+.searchpage_info{
+   padding: 20px; 
+}
+.searchpage_info > p{
+    margin-bottom: 10ox;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.searchpage_info > h1{
+    margin-bottom: 30px;
+}
+.searchpage_info > button{
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+    border: 1px solid lightgray;
+}
